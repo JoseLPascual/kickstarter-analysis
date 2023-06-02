@@ -4,15 +4,9 @@
 
 #### The purpose of this analysis is to graph theater outcomes controlling for date and project goal to determine the best times of the year and the optimal financial goal for theater funding projects.
 
-### Purpose
-
-## Analysis and Challenges
-
 ####
 
 ### Analysis of Outcomes Based on Launch Date
-
-#### To solve this problem, t
 
 ### Analysis of Outcomes Based on Goals
 
